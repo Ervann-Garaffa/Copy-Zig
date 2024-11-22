@@ -1,14 +1,14 @@
 0
-17307 1688849860281689 1731447708781955700 3ea28d7767a180cee91e6e3ad8f4459a 0 C:\Users\Ervan\AppData\Local\Temp\zls\build_runner.zig
-1292 9851624184936970 1720125603512472400 15d3171941fd00ad6a17f27ca8bec323 0 C:\Dev\Github\Copy Zig\build.zig
-67 12384898975312097 1711814608633138600 8fda7d11aa245b729844ad4f71b7bd50 0 C:\Dev\Github\Copy Zig\zig-cache\o\74c27f1902f95e35c91bb05395a1a801\dependencies.zig
-17307 1688849860281689 1731447708781955700 3ea28d7767a180cee91e6e3ad8f4459a 0 C:\Users\Ervan\AppData\Local\Temp\zls\build_runner.zig
+17307 4222124651382718 1732298523152586300 3ea28d7767a180cee91e6e3ad8f4459a 0 C:\Users\Ervan\AppData\Local\Temp\zls\build_runner.zig
+1289 9851624184936970 1732298857085460800 b15c8c0b39bafbd04a2d7401f67911c9 0 C:\Dev\Github\Copy Zig\build.zig
+67 5910974511687953 1732298857106435100 8fda7d11aa245b729844ad4f71b7bd50 0 C:\Dev\Github\Copy Zig\zig-cache\o\74c27f1902f95e35c91bb05395a1a801\dependencies.zig
+17307 4222124651382718 1732298523152586300 3ea28d7767a180cee91e6e3ad8f4459a 0 C:\Users\Ervan\AppData\Local\Temp\zls\build_runner.zig
 9163 5629499534702610 1691117042000000000 514b9d62f95db9ea86d2cd5008c5d946 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\std.zig
 9163 5629499534702610 1691117042000000000 514b9d62f95db9ea86d2cd5008c5d946 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\std.zig
 22609 7318349394966539 1691117042000000000 0538267a6cdadf6d7dadf7693fce1bed 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\start.zig
-17307 1688849860281689 1731447708781955700 3ea28d7767a180cee91e6e3ad8f4459a 0 C:\Users\Ervan\AppData\Local\Temp\zls\build_runner.zig
+17307 4222124651382718 1732298523152586300 3ea28d7767a180cee91e6e3ad8f4459a 0 C:\Users\Ervan\AppData\Local\Temp\zls\build_runner.zig
 31497 4785074604568304 1691117042000000000 19fdeeaf64691d2a2db90057d020ce7c 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\builtin.zig
-2681 12103423998621411 1711814608639297600 7b7063de2eb1f290142d655194853e14 0 C:\Dev\Github\Copy Zig\zig-cache\o\f00ce765b05abd5af5369534d6b362d9\builtin.zig
+2681 0 0 7b7063de2eb1f290142d655194853e14 0 C:\Dev\Github\Copy Zig\zig-cache\o\f00ce765b05abd5af5369534d6b362d9\builtin.zig
 89258 10696049115494427 1691117042000000000 649ebcba9664c24ff712871de58215da 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\target.zig
 108351 8444249301809260 1691117042000000000 f490eba5cd80e13eb378b88201d66750 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\target\x86.zig
 72240 3940649674438157 1691117042000000000 b843e43f636a5817c03dd1268cb73325 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\math.zig
@@ -66,7 +66,7 @@
 75048 7881299348387878 1691117042000000000 d5204e28f64c5f15e07271f093fce286 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\target\arm.zig
 20832 2251799814174728 1691117042000000000 91553b85ac7bf6c6cc87153f3f5c7d77 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\sort.zig
 51708 2533274790885385 1691117042000000000 0b0bdf57108c7ceeaf40775b7fcc59e2 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\sort\block.zig
-1292 9851624184936970 1720125603512472400 15d3171941fd00ad6a17f27ca8bec323 0 C:\Dev\Github\Copy Zig\build.zig
+1289 9851624184936970 1732298857085460800 b15c8c0b39bafbd04a2d7401f67911c9 0 C:\Dev\Github\Copy Zig\build.zig
 13165 5066549581278893 1691117042000000000 ad567f52204ceefa46895b4b2865d738 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\Build\Step\Options.zig
 6384 4785074604568229 1691117042000000000 89f59c200308aaa647d51c1e7ae3cedb 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\Build\Step\InstallArtifact.zig
 84495 4785074604568221 1691117042000000000 83018a6f644d10fd27cb5efd9d90bb79 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\std\Build\Step\Compile.zig

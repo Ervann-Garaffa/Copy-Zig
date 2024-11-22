@@ -1,5 +1,0 @@
-0
-20 32651097298613709 1720125660807325700 747240964cd4d4367b4eeb73baedfbe4 2 o\de2afa7df44d91c5b0e40166237d0587\cimport.h
-126396 49821070877837962 1713300607023236200 e35ed99e83a0f56dbdfa7bdf0166c29f 0 C:\Dev\Github\Hero Realms\raylib\raylib.h
-1704 6192449488086164 1691117040000000000 4cc357367abde8a36a43490e31617861 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\include\stdarg.h
-1062 3659174697690262 1691117040000000000 07061723f74986d8f415ea7b767e167e 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\include\stdbool.h
