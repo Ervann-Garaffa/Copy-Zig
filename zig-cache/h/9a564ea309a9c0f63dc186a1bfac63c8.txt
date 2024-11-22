@@ -1,2 +1,0 @@
-0
-35154 1407374884025920 1691117042000000000 d5bfdda44216aa5c504c9e54af3b567b 0 C:\Users\Ervan\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\libc\mingw\lib-common\kernel32.def.in
