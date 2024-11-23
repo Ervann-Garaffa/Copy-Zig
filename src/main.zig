@@ -38,6 +38,8 @@ fn drawLines(origin: Vector2, scale: f32, points: []Vector2) void { // Slice ?!
 
 pub fn main() !void {
     std.debug.print("\n\nHello World!\n\n", .{});
+
+    rl.SetTraceLogLevel(rl.LOG_WARNING); // Disable all logs
     rl.InitWindow(800, 600, "Small Space Combat");
     rl.SetWindowPosition(100, 100);
     rl.SetTargetFPS(144);
